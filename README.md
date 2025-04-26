@@ -11,6 +11,7 @@ Xueqing (Annie) Wu, Yun-Chung (Murphy) Liu, Luopeiwen (Tina) Yi
 Adversarial patch attacks can severely damage image classification models without needing access to model parameters or input data, posing major threats in real-world settings such as hazardous substance identification.  
 
 This project investigates the effectiveness of adversarial patch attacks on both a balanced dataset (CIFAR-10) and a highly imbalanced dataset (batteries vs. non-batteries, 4.8% vs. 95.2%). We explored data imbalance mitigation techniques—data augmentation, weighted random sampling, and weighted cross-entropy loss—and evaluated attack success rates (ASR).  
+
 Our results show that large whitebox patches (16×16 pixels) achieve the highest ASR (0.89 untargeted, 0.74 targeted) on CIFAR-10. On the imbalanced dataset, imbalance mitigation strategies boosted the minority battery class ASR from 0% to 97.75%.  
 Future work will explore more extreme imbalance settings and defense strategies.
 
