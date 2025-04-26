@@ -141,13 +141,6 @@ This project seeks to answer:
 
 ---
 
-## 5. Code Availability
-
-The complete code for this project is available at:  
-[GitHub Repository](https://github.com/tinayiluo0322/ECE_Final_Project_2025)
-
----
-
 ## 6. References
 1. Goodfellow IJ, Shlens J, Szegedy C. *Explaining and harnessing adversarial examples.* arXiv:1412.6572 (2014).
 2. Szegedy C, et al. *Intriguing properties of neural networks.* arXiv:1312.6199 (2013).
